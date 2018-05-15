@@ -17,4 +17,3 @@ sudo pip install opencv-python
 After installing the libraries, run this script:
 python script.py
 
-[NOTE: Don't remove "haarcascade_face_alt.xml" file. It is being used for face detection]
