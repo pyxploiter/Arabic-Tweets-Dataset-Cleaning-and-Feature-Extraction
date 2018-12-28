@@ -27,13 +27,13 @@ If you have already installed 'pip' then these libraries can be easily installed
 
 <b>for windows:</b>
 ```shell
-$ pip install pyarabic</br>
-$ pip install opencv-python</br>
+$ pip install pyarabic
+$ pip install opencv-python
 ```
 <b>for linux (ubuntu):</b>
 ```shell
-$ sudo pip install pyarabic</br>
-$ sudo pip install opencv-python</br>
+$ sudo pip install pyarabic
+$ sudo pip install opencv-python
 ```
 <b>After installing the libraries, run this script:</b>
 ```shell
