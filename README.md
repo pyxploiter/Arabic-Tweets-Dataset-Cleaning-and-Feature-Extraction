@@ -4,16 +4,17 @@ You need to install following python libraries to run this script:
 
 If you have already installed 'pip' then these libraries can be easily installed, just run following commands:
 
-for windows:
+<b>for windows:</b>
 
 pip install pyarabic</br>
 pip install opencv-python</br>
 
-for linux (ubuntu):
+<b>for linux (ubuntu):</b>
 
 sudo pip install pyarabic</br>
 sudo pip install opencv-python</br>
 
-After installing the libraries, run this script:
+<b>After installing the libraries, run this script:</b>
+
 python script.py
 
